@@ -1,0 +1,3 @@
+touch sample.txt
+pwd
+wget https://example.com
