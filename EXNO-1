@@ -1,0 +1,18 @@
+ls
+
+
+
+vi examplel.txt
+
+
+
+
+ls
+
+
+
+rm examplel.txt
+
+
+
+ls
