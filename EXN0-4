@@ -1,0 +1,6 @@
+ls
+mkdir My Folder
+echo "welcome to Kali Linux.
+this is a sample text file." >file1.
+cat file1.txt
+ls
