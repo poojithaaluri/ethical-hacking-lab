@@ -1,0 +1,4 @@
+uptime
+date 
+mv Sample.txt myfolder/
+ls myfolder
