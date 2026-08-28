@@ -1,0 +1,3 @@
+whois example.com
+nslookup example.com
+site: example.com
