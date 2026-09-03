@@ -1,0 +1,3 @@
+sudo tshark -D
+sudo tshark -ieth0
+sudo tshark -i eth0-c 20
